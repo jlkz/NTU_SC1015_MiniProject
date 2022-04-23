@@ -12,9 +12,9 @@ Coaches therefore face a lot of stress due to the importance of good play callin
 - Machine Learning
 - Data Driven Insights
 ## Contributors
-@Owie963
-@comgood
-@jlkz
+- @Owie963
+- @comgood
+- @jlkz
 ## Problem Definition
 - Can we help NFL coaches make more informed decisions with various stressors?
 - How do different factors affect the outcome of a play?
