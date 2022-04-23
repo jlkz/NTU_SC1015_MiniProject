@@ -1,4 +1,4 @@
-# Analysis of Plays in the NFL
+# Analysis of Plays in the NFL 🏈
 ## About
 This is a SC1015 Mini Project about the factors that affect the outcome of a play in an NFL game. Data of pbp-2020 and pbp-2021 was taken from (http://nflsavant.com/about.php)
 
