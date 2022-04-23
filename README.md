@@ -1,6 +1,11 @@
 # Analyis of Plays in the NFL
 ## About
 This is a SC1015 Mini Project about the factors that affect the outcome of a play in an NFL game. Data of pbp-2020 and pbp-2021 was taken from (http://nflsavant.com/about.php)
+
+In 2021 alone, 1 team on offense will call over 1200 plays across 17 games averaging 70 plays per game
+Time is of the essence as information needs to be relayed to all players involved within 40s between plays.
+
+Coaches therefore face a lot of stress due to the importance of good play calling. They also face tight time constraints. By finding out factors that most affect the outcome of a play, we can aid coaches in making better decisions. 
 ### Overview
 - Data Cleaning and Resampling
 - EDA and Data Visualisation
