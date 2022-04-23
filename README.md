@@ -15,6 +15,20 @@ Coaches therefore face a lot of stress due to the importance of good play callin
 - @Owie963
 - @comgood
 - @jlkz
+## Requirements
+The NFL-Plays notebook requires the following to run:
+- treeinterpreter
+```sh
+pip install treeinterpreter
+```
+- xgboost
+```sh
+pip install xgboost
+```
+- shap
+```sh
+pip install shap
+```
 ## Problem Definition
 - Can we help NFL coaches make more informed decisions with various stressors?
 - How do different factors affect the outcome of a play?
