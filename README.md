@@ -6,7 +6,7 @@ In 2021 alone, 1 team on offense will call over 1200 plays across 17 games avera
 Time is of the essence as information needs to be relayed to all players involved within 40s between plays.
 
 Coaches therefore face a lot of stress due to the importance of good play calling. They also face tight time constraints. By finding out factors that most affect the outcome of a play, we can aid coaches in making better decisions. 
-### Overview
+## Overview
 - Data Cleaning and Resampling
 - EDA and Data Visualisation
 - Machine Learning
