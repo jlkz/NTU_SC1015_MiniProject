@@ -41,7 +41,7 @@ pip install shap
 - XGBoost
 - SHAP 
 ## Conclusion
-- YardLine, Time, Togo seem to be of greater importance in affecting the outcome of a failed / decent / great play
+- YardLine, Time, ToGo seem to be of greater importance in affecting the outcome of a failed / decent / great play
 - But these factors are too insignificant (low SHAP score) to provide a reliable influence on importance
 - Data before upsampling did not perform well
 - XGBoost with upsampled data is the most accurate (75.46 %)
