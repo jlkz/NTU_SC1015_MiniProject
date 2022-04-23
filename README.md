@@ -48,7 +48,7 @@ pip install shap
 - Useful to a certain extent to evaluate which factor is important in affecting the outcome of play
 - Although we are able to find the important factors, more has to be done to look into their usefulness to help the coaches decide better
 ## Learning Outcomes of this Project
-- Handling imbalaned datasets using upsampling
+- Handling imbalanced datasets using upsampling
 - Encoding categorical variables
 - Concepts about Precision, Recall, and F1 Score
 - Accuracy and reliability of various models
