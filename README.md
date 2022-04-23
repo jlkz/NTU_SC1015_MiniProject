@@ -2,10 +2,10 @@
 ## About
 This is a SC1015 Mini Project about the factors that affect the outcome of a play in an NFL game. Data of pbp-2020 and pbp-2021 was taken from (http://nflsavant.com/about.php)
 ### Overview
-Data Cleaning and Resampling
-EDA and Data Visualisation
-Machine Learning
-Data Driven Insights
+- Data Cleaning and Resampling
+- EDA and Data Visualisation
+- Machine Learning
+- Data Driven Insights
 ## Contributors
 @Owie963
 @comgood
