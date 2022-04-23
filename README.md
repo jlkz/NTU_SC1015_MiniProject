@@ -52,6 +52,9 @@ pip install shap
 - Encoding categorical variables
 - Concepts about Precision, Recall, and F1 Score
 - Accuracy and reliability of various models
+- Understanding of the new XGBoost model
+- Finding new visualization methods through TreeInterpreter and SHAP
+- Acquiring insights into comparing models
 ## References
 * https://www.baeldung.com/cs/multi-class-f1-score
 * https://medium.com/analytics-vidhya/evaluating-a-random-forest-model-9d165595ad56
