@@ -7,10 +7,24 @@ Time is of the essence as information needs to be relayed to all players involve
 
 Coaches therefore face a lot of stress due to the importance of good play calling. They also face tight time constraints. By finding out factors that most affect the outcome of a play, we can aid coaches in making better decisions. 
 ## Overview
-- Data Cleaning and Resampling
-- EDA and Data Visualisation
-- Machine Learning
-- Data Driven Insights
+### Data Extraction and Cleaning 
+- Concatenating of pbp-2020 and pbp-2021 datasets
+- Focusing on Baltimore (BAL) games
+- Renaming Categories
+- Dropping Rows and Columns that do not contribute to yardage gained
+- Reformatting and Combining categories into CombinedPlayType
+### EDA and Data Visualisation
+- Displaying counts of the variables
+- Plotting variables against each other
+- Observing initial patterns and anomalies
+### Machine Learning
+- Encoding Categorical variables
+- Applying Random Forest Classifier
+- Applying XGBoost and interpreting with SHAP explainer
+- Interpreting the models and their accuracy
+### Data Driven Insights
+- Finding features with high importance
+- Drawing conclusions
 ## Contributors
 - @Owie963
 - @comgood
