@@ -19,7 +19,7 @@ Coaches therefore face a lot of stress due to the importance of good play callin
 - Observing initial patterns and anomalies
 ### Machine Learning
 - Encoding Categorical variables
-- Applying Random Forest Classifier and intepreting with Tree Interpreter
+- Applying Random Forest Classifier and intepreting with Treeinterpreter
 - Applying XGBoost and interpreting with SHAP explainer
 - Interpreting the models and their accuracy
 ### Data Driven Insights
@@ -49,7 +49,7 @@ pip install shap
 ## Models / Algorithms Used
 - Pandas
 - Plotly
-- TreeInterpreter
+- Treeinterpreter
 - One-Hot Encoding
 - Random Forest Classifier
 - XGBoost
