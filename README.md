@@ -19,7 +19,7 @@ Coaches therefore face a lot of stress due to the importance of good play callin
 - Observing initial patterns and anomalies
 ### Machine Learning
 - Encoding Categorical variables
-- Applying Random Forest Classifier
+- Applying Random Forest Classifier and intepreting with Tree Interpreter
 - Applying XGBoost and interpreting with SHAP explainer
 - Interpreting the models and their accuracy
 ### Data Driven Insights
